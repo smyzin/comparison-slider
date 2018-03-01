@@ -1,6 +1,12 @@
-# comparison-slider
+# Vue Image Comparison Slider (VueICS)
 
 > This is a simple vue component with image comparison slider
+
+## TODO
+#### 🌎
+---
+ - fix left offset
+ - add on mouse sliding
 
 ## Build Setup
 
